@@ -1,2 +1,3 @@
-# Jax-P
-Repo for practicing jax by implementing meta learning algorithms
+# MAML & META-AGD
+
+Maml and Meta sgd have been implemented purely in jax
